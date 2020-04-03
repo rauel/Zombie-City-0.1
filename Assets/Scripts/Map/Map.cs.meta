@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: bdcda216d2302f5488fef383d4ab9bac
+timeCreated: 1504859563
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - groundGrassland: {fileID: 1313898167323878, guid: cfcc7828cc13cfd43876f63ce4a1dbfa,
+      type: 2}
+  - groundForest: {fileID: 1381983095370702, guid: c7b1d72884b99054ca6d0a9c1a6b9d28,
+      type: 2}
+  - groundOcean: {fileID: 1761947840593540, guid: cd9b9380d4254ef43b61065889934533,
+      type: 2}
+  - groundVillage: {fileID: 1863558480128238, guid: da351a23377d5fc4397c55351ad4d7c3,
+      type: 2}
+  - groundSuburb: {fileID: 1447625111454498, guid: dd86db13a750c2d4aa68c571ba91fb6e,
+      type: 2}
+  - groundCity: {fileID: 1391238186912148, guid: 973ecc4e76c2f4542a69fdd73f41391e,
+      type: 2}
+  - groundMetropolis: {fileID: 1508415591339008, guid: aa5bdda6bcca25e4f83cd9577f2ff071,
+      type: 2}
+  - groundIndustry: {fileID: 1263594931020930, guid: e8fbf17cd698dc040a2f154a811903dd,
+      type: 2}
+  - groundCommercial: {fileID: 1204816580144402, guid: 56c8454620896be419b09eddbaa81971,
+      type: 2}
+  - groundBeach: {fileID: 1049558710276854, guid: e72b9b4945eee99409ee94a5bba019d0,
+      type: 2}
+  - groundDocks: {fileID: 1479843276695148, guid: 2399602d2bb3c41488e2d39ba41096e3,
+      type: 2}
+  - groundRiver: {fileID: 1764652170251270, guid: a77b3421fe3160245b2d89ac8e89019b,
+      type: 2}
+  - groundShallowWater: {fileID: 1215442248705506, guid: 65000e3ca16aeb344a78ee75eca169f9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
